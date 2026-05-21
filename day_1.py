@@ -88,6 +88,7 @@ def search_contact():
         if not found:
              print("No contact match found!")
 
+
 def main():
     while True:
         print("1.ADD CONTACT")
