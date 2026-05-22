@@ -1,0 +1,27 @@
+[
+  {
+    "title": "harry potter",
+    "genre": "fantasy",
+    "rating": 10.0
+  },
+  {
+    "title": "micheal",
+    "genre": "drama",
+    "rating": 10.0
+  },
+  {
+    "title": "kung fu panda",
+    "genre": "animation",
+    "rating": 10.0
+  },
+  {
+    "title": "wonder women",
+    "genre": "fantasy",
+    "rating": 10.0
+  },
+  {
+    "title": "mahabharatha",
+    "genre": "history",
+    "rating": 10.0
+  }
+]

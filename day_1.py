@@ -31,7 +31,7 @@ Bonus:
 import csv
 import os
 
-FILE_NAME = "contacts.txt"
+FILE_NAME = "contacts.csv"
 
 if not os.path.exists(FILE_NAME):
     with open(FILE_NAME , "w" , newline="" , encoding= "utf-8") as f:
@@ -84,7 +84,7 @@ def search_contact():
         if  search in row["Name"]:
               print(f"{row["Name"]}  | 📞 {row["Phone"]}")
               found = True 
-    
+              return
         if not found:
              print("No contact match found!")
 
