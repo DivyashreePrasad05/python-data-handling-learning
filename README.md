@@ -12,6 +12,12 @@
 ### Day 2 : Student Marks Analyzer
 - description : Creates a user to input student names along with their marks and then calculates different operations.
 
+### Day 3: Personal Movie Tracker with JSON
+- description : Creates a Python CLI tool that lets users maintain their own personal movie database, like a mini IMDb.
+
+### Day 4: Real-Time Weather Logger (API + CSV)
+- description : Builds a Python CLI tool that fetches real-time weather data for a given city and logs it to a CSV file for daily tracking.
+
 ##  How to Run
 1. Clone the repository
 2. Open terminal
