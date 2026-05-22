@@ -28,7 +28,7 @@ from datetime import datetime
 import requests
 
 FILE_NAME ="weather_logs.csv"
-API_KEY = "7c3fda7ee624f7df817590985751aaff"
+API_KEY = "write_your_own_API_key"
 
 
 if not os.path.exists(FILE_NAME):
