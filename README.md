@@ -7,16 +7,16 @@
 ---
 
 ### Day 1 : CLI Contact Book (CSV-Powered)
-- description : Creates csv file based on user input to store contact of each user and all contacts.
+- Description : Creates csv file based on user input to store contact of each user and all contacts.
 
 ### Day 2 : Student Marks Analyzer
-- description : Creates a user to input student names along with their marks and then calculates different operations.
+- Description : Creates a user to input student names along with their marks and then calculates different operations.
 
 ### Day 3: Personal Movie Tracker with JSON
-- description : Creates a Python CLI tool that lets users maintain their own personal movie database, like a mini IMDb.
+- Description : Creates a Python CLI tool that lets users maintain their own personal movie database, like a mini IMDb.
 
 ### Day 4: Real-Time Weather Logger (API + CSV)
-- description : Builds a Python CLI tool that fetches real-time weather data for a given city and logs it to a CSV file for daily tracking.
+- Description : Builds a Python CLI tool that fetches real-time weather data for a given city and logs it to a CSV file for daily tracking.
 
 ##  How to Run
 1. Clone the repository
